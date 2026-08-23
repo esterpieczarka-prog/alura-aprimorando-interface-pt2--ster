@@ -3,36 +3,35 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> My Blog In Paris </title>
+    <title>>MEU BLOG ROBLOX </title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
         <header>
-        <h1>⋆｡𖦹 ˚ 𓇼 ˚｡⋆  Meu blog De Aventuras pela Europa ⋆｡𖦹 ˚ 𓇼 ˚｡⋆</h1>
-        <p> Blog de aventuras e viajens desbravando as maravilhas da Europa ૮ ˶ᵔ ᵕ ᵔ˶ °</p>
+        <h1>⋆｡𖦹 ˚ 𓇼 ˚｡⋆  BEM_VINDO AO MEU BLOG DOS ROBLOXQUICIANOS ⋆｡𖦹 ˚ 𓇼 ˚｡⋆</h1>
+        <p> Blog de aventuras epelo roblox com meus Bloxicanos ૮ ˶ᵔ ᵕ ᵔ˶ °</p>
     </header>
  <main> 
     <article>
         <img src="imagem-blog.png">
         <div>
-            <p class="artigo-autor">Meu primeiro dia em Paris</p>
-            <p>Por: Arthur Miguel Pelozi Rodrigues Fernandez</p>
-                <p>Meu primeiro dia em Paris viajando pela Europa! Venha vivenciar essas aventuras comigo</p>
+            <p class=""blog-roblox.png">Meu primeiro dia em Paris</p>
+            <p>Por: Ester fogliatto</p>
+                <p>BEM_VINDO AO MEU BLOG DOS ROBLOXQUICIANOS</p>
                 <button>💟<span>0</span></button>
                 <button>😑<span>0</span></button>
         </div>
             </article>
             <article>
-            <img src="segundo post.png">
+            <img src=""fotoroblox.jpeg">
             <div>
-                <p class="artigo-autor">Meu segundo post na Europa. Só que agora na Itália!</p>
-                <p>Por:Arthur Miguel Pelozi Rodrigues Fernandez</p>
-                <p>Nessa Postagem estarei falando sobre como vim parar na Italia depois de ter passado 7 dias em Paris, veja oque eu ja fiz abaixo
-                    <li>Peguei o trem Eurostar ontem que vai da Europa a Italia</li>
-                    <li>Visitei o coliseu na Grecia anteontem</li>
-                    <li>  Estou em  Veneza hoje navegando pela cidade  </li>
-                    <li>E Irei almoçar no Antica Trattoria Poste Vecie hoje</li>
-                    <li>Depois compartilharei mais das minhas experiencias pela Europa</li>
+                <p class="artigo-autor"tudo sobre os mellhores jogos do Roblox</p>
+                <p>Por: Ester Fogliatto</p>
+                <p>>Nesse post vou falar que o roblox e um dos melhores jogos do mundo
+                    <li>Fle the Facility</li>
+                    <li> Bloxburg  </li>
+                    <li>dress to impress</li>
+                    <li>Sobreviva ao assacino</li>
                     
                 </ul>
                 <button>🙏<span>0</span></button>
@@ -44,16 +43,11 @@
                 <img src="terceira.png">
                 <div>
             
-            <p class="artigo-autor">CVC destinos Viagem para o México e oque fazer lá</p>
-            <p>Por: Arthur Miguel Pelozi Rodrigues Fernandez</p>
-                <p>O que fazer no México
-Entre as cidades e regiões mais visitadas, há experiências que combinam passeios urbanos, sítios arqueológicos e praias paradisíacas.  
+            <p class="artigo-autor">CVC Códigos do Blox Burg</p>
+            <p>Por: Ester Fgliatto</p>
+                <p>
 
-Cidade do México
-No Centro Histórico (Zócalo), visite a Catedral Metropolitana e o Templo Mayor; programe o Museu Frida Kahlo (Casa Azul) em Coyoacán e reserve um dia para Teotihuacán, com as pirâmides do Sol e da Lua. Dica: combine com um passeio de trajineras em Xochimilco. 
-
-Guadalajara
-Passeio pelo centro histórico, as praças e o Hospício Cabañas. Para experiências etílicas e culturais, faça tequila tours rumo a Tequila e Amatitán, com visita às destilarias e degustações.</p>
+.</p>
 <p class="artigo-fonte">Fonte: <a href="https://www.cvc.com.br/destinos/mexico">Guia de viajens Mexico</a></p>
                 <button>💟<span>0</span></button>
                 <button>😑<span>0</span></button>
@@ -62,7 +56,7 @@ Passeio pelo centro histórico, as praças e o Hospício Cabañas. Para experiê
     </main>
 
     <footer>
-        <p class="direitos"> Todos os direitos estão reservados a Arthur Miguel Fernandez</p>
+        <p class="direitos"> Todos os direitos estão reservados a Ester fogliatto</p>
     </footer>
 </body>
 <script src="main.js"></script>
